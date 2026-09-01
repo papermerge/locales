@@ -1,7 +1,6 @@
 # Papermerge Locales
 
-User interface translations for [Papermerge](https://papermerge.com) — the
-open-source document management system.
+User interface translations for [Papermerge](https://papermerge.com).
 
 This repository holds **only the translation files**. It is intentionally small
 and dependency-free so that anyone can improve a translation, or add a new
